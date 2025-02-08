@@ -4,3 +4,6 @@
 [submodule "Kickstart_Problems/88_Merge_Sorted_Array"]
 	path = Kickstart_Problems/88_Merge_Sorted_Array
 	url = https://github.com/madiv9820/88_Merge_Sorted_Array.git
+[submodule "Kickstart_Problems/27_Remove_Element"]
+	path = Kickstart_Problems/27_Remove_Element
+	url = https://github.com/madiv9820/27_Remove_Element.git
