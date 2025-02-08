@@ -7,3 +7,6 @@
 [submodule "Kickstart_Problems/27_Remove_Element"]
 	path = Kickstart_Problems/27_Remove_Element
 	url = https://github.com/madiv9820/27_Remove_Element.git
+[submodule "Elevate_Problems/189_Rotate_Array"]
+	path = Elevate_Problems/189_Rotate_Array
+	url = https://github.com/madiv9820/189_Rotate_Array.git
