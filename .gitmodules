@@ -13,3 +13,9 @@
 [submodule "Kickstart_Problems/169_Majority_Element"]
 	path = Kickstart_Problems/169_Majority_Element
 	url = https://github.com/madiv9820/169_Majority_Element.git
+[submodule "Kickstart_Problems/121_Best_Time_to_Buy_and_Sell_Stock"]
+	path = Kickstart_Problems/121_Best_Time_to_Buy_and_Sell_Stock
+	url = https://github.com/madiv9820/121_Best_Time_to_Buy_and_Sell_Stock.git
+[submodule "Elevate_Problems/122_Best_Time_to_Buy_and_Sell_Stock_II-2"]
+	path = Elevate_Problems/122_Best_Time_to_Buy_and_Sell_Stock_II-2
+	url = https://github.com/madiv9820/122_Best_Time_to_Buy_and_Sell_Stock_II-2.git
