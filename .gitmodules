@@ -19,3 +19,9 @@
 [submodule "Elevate_Problems/122_Best_Time_to_Buy_and_Sell_Stock_II-2"]
 	path = Elevate_Problems/122_Best_Time_to_Buy_and_Sell_Stock_II-2
 	url = https://github.com/madiv9820/122_Best_Time_to_Buy_and_Sell_Stock_II-2.git
+[submodule "Elevate_Problems/55_Jump_Game"]
+	path = Elevate_Problems/55_Jump_Game
+	url = https://github.com/madiv9820/55_Jump_Game.git
+[submodule "Elevate_Problems/45_Jump-Game_II"]
+	path = Elevate_Problems/45_Jump-Game_II
+	url = https://github.com/madiv9820/45_Jump-Game_II.git
