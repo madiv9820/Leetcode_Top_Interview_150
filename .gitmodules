@@ -25,3 +25,6 @@
 [submodule "Elevate_Problems/45_Jump-Game_II"]
 	path = Elevate_Problems/45_Jump-Game_II
 	url = https://github.com/madiv9820/45_Jump-Game_II.git
+[submodule "Elevate_Problems/274_H-Index"]
+	path = Elevate_Problems/274_H-Index
+	url = https://github.com/madiv9820/274_H-Index.git
