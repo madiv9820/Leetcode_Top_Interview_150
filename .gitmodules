@@ -28,3 +28,6 @@
 [submodule "Elevate_Problems/274_H-Index"]
 	path = Elevate_Problems/274_H-Index
 	url = https://github.com/madiv9820/274_H-Index.git
+[submodule "Elevate_Problems/238_Product_of_Array_Except_Self"]
+	path = Elevate_Problems/238_Product_of_Array_Except_Self
+	url = https://github.com/madiv9820/238_Product_of_Array_Except_Self.git
