@@ -1,0 +1,12 @@
+[submodule "Arrays/Easy_Breezy/Merge_Sorted_Array"]
+	path = Arrays/Easy_Breezy/Merge_Sorted_Array
+	url = https://github.com/madiv9820/Merge_Sorted_Array.git
+[submodule "Arrays/Easy_Breezy/Remove_Element"]
+	path = Arrays/Easy_Breezy/Remove_Element
+	url = https://github.com/madiv9820/Remove_Element.git
+[submodule "Arrays/Easy_Breezy/Remove_Duplicates_from_Sorted_Array"]
+	path = Arrays/Easy_Breezy/Remove_Duplicates_from_Sorted_Array
+	url = https://github.com/madiv9820/Remove_Duplicates_from_Sorted_Array.git
+[submodule "Arrays/Medium_Mystery/Remove_Duplicates_from_Sorted_Array_II"]
+	path = Arrays/Medium_Mystery/Remove_Duplicates_from_Sorted_Array_II
+	url = https://github.com/madiv9820/Remove_Duplicates_from_Sorted_Array_II.git
