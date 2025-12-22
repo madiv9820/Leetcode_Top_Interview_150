@@ -10,3 +10,6 @@
 [submodule "Arrays/Medium_Mystery/Remove_Duplicates_from_Sorted_Array_II"]
 	path = Arrays/Medium_Mystery/Remove_Duplicates_from_Sorted_Array_II
 	url = https://github.com/madiv9820/Remove_Duplicates_from_Sorted_Array_II.git
+[submodule "Arrays/Easy_Breezy/Majority_Element"]
+	path = Arrays/Easy_Breezy/Majority_Element
+	url = https://github.com/madiv9820/Majority_Element.git
