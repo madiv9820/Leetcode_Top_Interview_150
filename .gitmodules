@@ -19,3 +19,6 @@
 [submodule "Arrays/Easy_Breezy/Best_Time_to_Buy_and_Sell_Stock"]
 	path = Arrays/Easy_Breezy/Best_Time_to_Buy_and_Sell_Stock
 	url = https://github.com/madiv9820/Best_Time_to_Buy_and_Sell_Stock.git
+[submodule "Arrays/Medium_Mystery/Best_Time_to_Buy_and_Sell_Stock_II"]
+	path = Arrays/Medium_Mystery/Best_Time_to_Buy_and_Sell_Stock_II
+	url = https://github.com/madiv9820/Best_Time_to_Buy_and_Sell_Stock_II.git
