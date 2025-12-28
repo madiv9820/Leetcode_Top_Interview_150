@@ -22,3 +22,6 @@
 [submodule "Arrays/Medium_Mystery/Best_Time_to_Buy_and_Sell_Stock_II"]
 	path = Arrays/Medium_Mystery/Best_Time_to_Buy_and_Sell_Stock_II
 	url = https://github.com/madiv9820/Best_Time_to_Buy_and_Sell_Stock_II.git
+[submodule "Arrays/Medium_Mystery/Jump_Game"]
+	path = Arrays/Medium_Mystery/Jump_Game
+	url = https://github.com/madiv9820/Jump_Game.git
