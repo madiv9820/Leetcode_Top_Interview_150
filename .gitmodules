@@ -25,3 +25,6 @@
 [submodule "Arrays/Medium_Mystery/Jump_Game"]
 	path = Arrays/Medium_Mystery/Jump_Game
 	url = https://github.com/madiv9820/Jump_Game.git
+[submodule "Arrays/Medium_Mystery/Jump_Game_II"]
+	path = Arrays/Medium_Mystery/Jump_Game_II
+	url = https://github.com/madiv9820/Jump_Game_II.git
