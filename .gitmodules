@@ -31,3 +31,6 @@
 [submodule "Arrays/Medium_Mystery/H-Index"]
 	path = Arrays/Medium_Mystery/H-Index
 	url = https://github.com/madiv9820/H-Index.git
+[submodule "Arrays/Medium_Mystery/Insert_Delete_GetRandom_O1"]
+	path = Arrays/Medium_Mystery/Insert_Delete_GetRandom_O1
+	url = https://github.com/madiv9820/Insert_Delete_GetRandom_O1.git
