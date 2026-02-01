@@ -34,3 +34,6 @@
 [submodule "Arrays/Medium_Mystery/Insert_Delete_GetRandom_O1"]
 	path = Arrays/Medium_Mystery/Insert_Delete_GetRandom_O1
 	url = https://github.com/madiv9820/Insert_Delete_GetRandom_O1.git
+[submodule "Arrays/Medium_Mystery/Product_of_Array_Except_Self"]
+	path = Arrays/Medium_Mystery/Product_of_Array_Except_Self
+	url = https://github.com/madiv9820/Product_of_Array_Except_Self.git
