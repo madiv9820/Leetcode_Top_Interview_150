@@ -40,3 +40,9 @@
 [submodule "Arrays/Medium_Mystery/Gas_Station"]
 	path = Arrays/Medium_Mystery/Gas_Station
 	url = https://github.com/madiv9820/Gas_Station.git
+[submodule "Arrays/Hard_Headache/Candy"]
+	path = Arrays/Hard_Headache/Candy
+	url = https://github.com/madiv9820/Candy.git
+[submodule "Arrays/Hard_Headache/Trapping_Rain_Water"]
+	path = Arrays/Hard_Headache/Trapping_Rain_Water
+	url = https://github.com/madiv9820/Trapping_Rain_Water.git
