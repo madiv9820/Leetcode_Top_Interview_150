@@ -46,3 +46,6 @@
 [submodule "Arrays/Hard_Headache/Trapping_Rain_Water"]
 	path = Arrays/Hard_Headache/Trapping_Rain_Water
 	url = https://github.com/madiv9820/Trapping_Rain_Water.git
+[submodule "Arrays/Easy_Breezy/Roman_to_Integer"]
+	path = Arrays/Easy_Breezy/Roman_to_Integer
+	url = https://github.com/madiv9820/Roman_to_Integer.git
