@@ -55,3 +55,6 @@
 [submodule "Arrays/Easy_Breezy/Length_of_Last_Word"]
 	path = Arrays/Easy_Breezy/Length_of_Last_Word
 	url = https://github.com/madiv9820/Length_of_Last_Word.git
+[submodule "Arrays/Easy_Breezy/Longest_Common_Prefix"]
+	path = Arrays/Easy_Breezy/Longest_Common_Prefix
+	url = https://github.com/madiv9820/Longest_Common_Prefix.git
