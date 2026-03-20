@@ -58,3 +58,6 @@
 [submodule "Arrays/Easy_Breezy/Longest_Common_Prefix"]
 	path = Arrays/Easy_Breezy/Longest_Common_Prefix
 	url = https://github.com/madiv9820/Longest_Common_Prefix.git
+[submodule "Arrays/Medium_Mystery/Reverse_Words_in_a_String"]
+	path = Arrays/Medium_Mystery/Reverse_Words_in_a_String
+	url = https://github.com/madiv9820/Reverse_Words_in_a_String.git
