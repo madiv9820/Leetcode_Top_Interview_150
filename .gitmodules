@@ -61,3 +61,6 @@
 [submodule "Arrays/Medium_Mystery/Reverse_Words_in_a_String"]
 	path = Arrays/Medium_Mystery/Reverse_Words_in_a_String
 	url = https://github.com/madiv9820/Reverse_Words_in_a_String.git
+[submodule "Arrays/Medium_Mystery/Zigzag_Conversion"]
+	path = Arrays/Medium_Mystery/Zigzag_Conversion
+	url = https://github.com/madiv9820/Zigzag_Conversion.git
