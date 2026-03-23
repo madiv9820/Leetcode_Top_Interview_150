@@ -64,3 +64,6 @@
 [submodule "Arrays/Medium_Mystery/Zigzag_Conversion"]
 	path = Arrays/Medium_Mystery/Zigzag_Conversion
 	url = https://github.com/madiv9820/Zigzag_Conversion.git
+[submodule "Arrays/Hard_Headache/Text_Justification"]
+	path = Arrays/Hard_Headache/Text_Justification
+	url = https://github.com/madiv9820/Text_Justification.git
