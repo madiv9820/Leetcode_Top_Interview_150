@@ -67,3 +67,18 @@
 [submodule "Arrays/Hard_Headache/Text_Justification"]
 	path = Arrays/Hard_Headache/Text_Justification
 	url = https://github.com/madiv9820/Text_Justification.git
+[submodule "Two_Pointers/Easy_Stride/Valid_Palindrome"]
+	path = Two_Pointers/Easy_Stride/Valid_Palindrome
+	url = https://github.com/madiv9820/Valid_Palindrome.git
+[submodule "Two_Pointers/Easy_Stride/Is_Subsequence"]
+	path = Two_Pointers/Easy_Stride/Is_Subsequence
+	url = https://github.com/madiv9820/Is_Subsequence.git
+[submodule "Two_Pointers/Medium_Sync/Two_Sum_II"]
+	path = Two_Pointers/Medium_Sync/Two_Sum_II
+	url = https://github.com/madiv9820/Two_Sum_II.git
+[submodule "Two_Pointers/Medium_Sync/Container_With_Most_Water"]
+	path = Two_Pointers/Medium_Sync/Container_With_Most_Water
+	url = https://github.com/madiv9820/Container_With_Most_Water.git
+[submodule "Two_Pointers/Medium_Sync/3Sum"]
+	path = Two_Pointers/Medium_Sync/3Sum
+	url = https://github.com/madiv9820/3Sum.git
