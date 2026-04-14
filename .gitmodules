@@ -82,3 +82,6 @@
 [submodule "Two_Pointers/Medium_Sync/3Sum"]
 	path = Two_Pointers/Medium_Sync/3Sum
 	url = https://github.com/madiv9820/3Sum.git
+[submodule "Sliding_Window/Minimum_Size_Subarray_Sum"]
+	path = Sliding_Window/Minimum_Size_Subarray_Sum
+	url = https://github.com/madiv9820/Minimum_Size_Subarray_Sum.git
