@@ -85,3 +85,6 @@
 [submodule "Sliding_Window/Minimum_Size_Subarray_Sum"]
 	path = Sliding_Window/Minimum_Size_Subarray_Sum
 	url = https://github.com/madiv9820/Minimum_Size_Subarray_Sum.git
+[submodule "Sliding_Window/Longest_Substring_Without_Repeating_Characters"]
+	path = Sliding_Window/Longest_Substring_Without_Repeating_Characters
+	url = https://github.com/madiv9820/Longest_Substring_Without_Repeating_Characters.git
