@@ -88,3 +88,12 @@
 [submodule "Sliding_Window/Longest_Substring_Without_Repeating_Characters"]
 	path = Sliding_Window/Longest_Substring_Without_Repeating_Characters
 	url = https://github.com/madiv9820/Longest_Substring_Without_Repeating_Characters.git
+[submodule "Sliding_Window/Substring_with_Concatenation_of_All_Words"]
+	path = Sliding_Window/Substring_with_Concatenation_of_All_Words
+	url = https://github.com/madiv9820/Substring_with_Concatenation_of_All_Words.git
+[submodule "Matrix/Rows_Before_Bros/Valid_Sudoku"]
+	path = Matrix/Rows_Before_Bros/Valid_Sudoku
+	url = https://github.com/madiv9820/Valid_Sudoku.git
+[submodule "Matrix/Rows_Before_Bros/Spiral_Matrix"]
+	path = Matrix/Rows_Before_Bros/Spiral_Matrix
+	url = https://github.com/madiv9820/Spiral_Matrix.git
