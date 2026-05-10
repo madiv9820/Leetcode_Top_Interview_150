@@ -97,3 +97,6 @@
 [submodule "Matrix/Rows_Before_Bros/Spiral_Matrix"]
 	path = Matrix/Rows_Before_Bros/Spiral_Matrix
 	url = https://github.com/madiv9820/Spiral_Matrix.git
+[submodule "Matrix/Rows_Before_Bros/Rotate_Image"]
+	path = Matrix/Rows_Before_Bros/Rotate_Image
+	url = https://github.com/madiv9820/Rotate_Image.git
