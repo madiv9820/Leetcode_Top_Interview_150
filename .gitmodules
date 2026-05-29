@@ -103,3 +103,6 @@
 [submodule "Sliding_Window/Minimum_Window_Substring"]
 	path = Sliding_Window/Minimum_Window_Substring
 	url = https://github.com/madiv9820/Minimum_Window_Substring.git
+[submodule "Matrix/Rows_Before_Bros/Game_of_Life"]
+	path = Matrix/Rows_Before_Bros/Game_of_Life
+	url = https://github.com/madiv9820/Game_of_Life.git
