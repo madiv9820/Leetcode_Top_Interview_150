@@ -106,3 +106,6 @@
 [submodule "Matrix/Rows_Before_Bros/Game_of_Life"]
 	path = Matrix/Rows_Before_Bros/Game_of_Life
 	url = https://github.com/madiv9820/Game_of_Life.git
+[submodule "Matrix/Rows_Before_Bros/Set_Matrix_Zeroes"]
+	path = Matrix/Rows_Before_Bros/Set_Matrix_Zeroes
+	url = https://github.com/madiv9820/Set_Matrix_Zeroes.git
