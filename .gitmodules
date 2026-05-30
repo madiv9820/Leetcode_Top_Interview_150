@@ -109,3 +109,6 @@
 [submodule "Matrix/Rows_Before_Bros/Set_Matrix_Zeroes"]
 	path = Matrix/Rows_Before_Bros/Set_Matrix_Zeroes
 	url = https://github.com/madiv9820/Set_Matrix_Zeroes.git
+[submodule "Hashmap/Hashlings/Ransom_Note"]
+	path = Hashmap/Hashlings/Ransom_Note
+	url = https://github.com/madiv9820/Ransom_Note.git
