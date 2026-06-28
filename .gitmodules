@@ -112,3 +112,6 @@
 [submodule "Hashmap/Hashlings/Ransom_Note"]
 	path = Hashmap/Hashlings/Ransom_Note
 	url = https://github.com/madiv9820/Ransom_Note.git
+[submodule "Hashmap/Hashlings/Isomorphic_Strings"]
+	path = Hashmap/Hashlings/Isomorphic_Strings
+	url = https://github.com/madiv9820/Isomorphic_Strings.git
