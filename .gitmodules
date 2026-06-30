@@ -115,3 +115,6 @@
 [submodule "Hashmap/Hashlings/Isomorphic_Strings"]
 	path = Hashmap/Hashlings/Isomorphic_Strings
 	url = https://github.com/madiv9820/Isomorphic_Strings.git
+[submodule "Hashmap/Hashlings/Word_Pattern"]
+	path = Hashmap/Hashlings/Word_Pattern
+	url = https://github.com/madiv9820/Word_Pattern.git
