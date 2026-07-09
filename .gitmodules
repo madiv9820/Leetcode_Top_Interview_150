@@ -118,3 +118,6 @@
 [submodule "Hashmap/Hashlings/Word_Pattern"]
 	path = Hashmap/Hashlings/Word_Pattern
 	url = https://github.com/madiv9820/Word_Pattern.git
+[submodule "Hashmap/Hashlings/Valid_Anagram"]
+	path = Hashmap/Hashlings/Valid_Anagram
+	url = https://github.com/madiv9820/Valid_Anagram.git
