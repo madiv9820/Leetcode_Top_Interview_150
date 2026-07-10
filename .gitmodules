@@ -124,3 +124,6 @@
 [submodule "Hashmap/Bucket_Masters/Group_Anagrams"]
 	path = Hashmap/Bucket_Masters/Group_Anagrams
 	url = https://github.com/madiv9820/Group_Anagrams.git
+[submodule "Hashmap/Hashlings/Two_Sum"]
+	path = Hashmap/Hashlings/Two_Sum
+	url = https://github.com/madiv9820/Two_Sum.git
