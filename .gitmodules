@@ -127,3 +127,6 @@
 [submodule "Hashmap/Hashlings/Two_Sum"]
 	path = Hashmap/Hashlings/Two_Sum
 	url = https://github.com/madiv9820/Two_Sum.git
+[submodule "Hashmap/Hashlings/Contains_Duplicate_II"]
+	path = Hashmap/Hashlings/Contains_Duplicate_II
+	url = https://github.com/madiv9820/Contains_Duplicate_II.git
