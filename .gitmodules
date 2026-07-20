@@ -130,3 +130,6 @@
 [submodule "Hashmap/Hashlings/Contains_Duplicate_II"]
 	path = Hashmap/Hashlings/Contains_Duplicate_II
 	url = https://github.com/madiv9820/Contains_Duplicate_II.git
+[submodule "Hashmap/Bucket_Masters/Longest_Consecutive_Sequence"]
+	path = Hashmap/Bucket_Masters/Longest_Consecutive_Sequence
+	url = https://github.com/madiv9820/Longest_Consecutive_Sequence.git
