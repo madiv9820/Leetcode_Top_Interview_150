@@ -136,3 +136,6 @@
 [submodule "Intervals/Summary_Ranges"]
 	path = Intervals/Summary_Ranges
 	url = https://github.com/madiv9820/Summary_Ranges.git
+[submodule "Intervals/Merge_Intervals"]
+	path = Intervals/Merge_Intervals
+	url = https://github.com/madiv9820/Merge_Intervals.git
