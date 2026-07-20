@@ -133,3 +133,6 @@
 [submodule "Hashmap/Bucket_Masters/Longest_Consecutive_Sequence"]
 	path = Hashmap/Bucket_Masters/Longest_Consecutive_Sequence
 	url = https://github.com/madiv9820/Longest_Consecutive_Sequence.git
+[submodule "Intervals/Summary_Ranges"]
+	path = Intervals/Summary_Ranges
+	url = https://github.com/madiv9820/Summary_Ranges.git
