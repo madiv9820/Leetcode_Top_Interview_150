@@ -139,3 +139,6 @@
 [submodule "Intervals/Merge_Intervals"]
 	path = Intervals/Merge_Intervals
 	url = https://github.com/madiv9820/Merge_Intervals.git
+[submodule "Intervals/Insert_Interval"]
+	path = Intervals/Insert_Interval
+	url = https://github.com/madiv9820/Insert_Interval.git
