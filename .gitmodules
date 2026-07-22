@@ -142,3 +142,6 @@
 [submodule "Intervals/Insert_Interval"]
 	path = Intervals/Insert_Interval
 	url = https://github.com/madiv9820/Insert_Interval.git
+[submodule "Intervals/Minimum_Number_of_Arrows_to_Burst_Balloons"]
+	path = Intervals/Minimum_Number_of_Arrows_to_Burst_Balloons
+	url = https://github.com/madiv9820/Minimum_Number_of_Arrows_to_Burst_Balloons.git
