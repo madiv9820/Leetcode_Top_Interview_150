@@ -145,3 +145,6 @@
 [submodule "Intervals/Minimum_Number_of_Arrows_to_Burst_Balloons"]
 	path = Intervals/Minimum_Number_of_Arrows_to_Burst_Balloons
 	url = https://github.com/madiv9820/Minimum_Number_of_Arrows_to_Burst_Balloons.git
+[submodule "Stack/Valid_Parentheses"]
+	path = Stack/Valid_Parentheses
+	url = https://github.com/madiv9820/Valid_Parentheses.git
