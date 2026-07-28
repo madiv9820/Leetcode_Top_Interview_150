@@ -148,3 +148,6 @@
 [submodule "Stack/Valid_Parentheses"]
 	path = Stack/Valid_Parentheses
 	url = https://github.com/madiv9820/Valid_Parentheses.git
+[submodule "Stack/Simplify_Path"]
+	path = Stack/Simplify_Path
+	url = https://github.com/madiv9820/Simplify_Path.git
