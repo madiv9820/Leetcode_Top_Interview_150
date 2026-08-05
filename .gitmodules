@@ -154,3 +154,9 @@
 [submodule "Stack/LeetCode_150-Evaluate_Reverse_Polish_Notation"]
 	path = Stack/LeetCode_150-Evaluate_Reverse_Polish_Notation
 	url = https://github.com/madiv9820/LeetCode_150-Evaluate_Reverse_Polish_Notation.git
+[submodule "Stack/Basic_Calculator"]
+	path = Stack/Basic_Calculator
+	url = https://github.com/madiv9820/Basic_Calculator.git
+[submodule "Stack/Evaluate_Reverse_Polish_Notation"]
+	path = Stack/Evaluate_Reverse_Polish_Notation
+	url = https://github.com/madiv9820/Evaluate_Reverse_Polish_Notation.git
