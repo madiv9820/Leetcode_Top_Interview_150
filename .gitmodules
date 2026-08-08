@@ -160,3 +160,6 @@
 [submodule "Stack/Evaluate_Reverse_Polish_Notation"]
 	path = Stack/Evaluate_Reverse_Polish_Notation
 	url = https://github.com/madiv9820/Evaluate_Reverse_Polish_Notation.git
+[submodule "Linked_List/Linked_List_Cycle"]
+	path = Linked_List/Linked_List_Cycle
+	url = https://github.com/madiv9820/Linked_List_Cycle.git
