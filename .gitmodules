@@ -166,3 +166,6 @@
 [submodule "Linked_List/Add_Two_Numbers"]
 	path = Linked_List/Add_Two_Numbers
 	url = https://github.com/madiv9820/Add_Two_Numbers.git
+[submodule "Linked_List/Merge_Two_Sorted_Lists"]
+	path = Linked_List/Merge_Two_Sorted_Lists
+	url = https://github.com/madiv9820/Merge_Two_Sorted_Lists.git
