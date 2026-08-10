@@ -169,3 +169,6 @@
 [submodule "Linked_List/Merge_Two_Sorted_Lists"]
 	path = Linked_List/Merge_Two_Sorted_Lists
 	url = https://github.com/madiv9820/Merge_Two_Sorted_Lists.git
+[submodule "Linked_List/Copy_List_with_Random_Pointer"]
+	path = Linked_List/Copy_List_with_Random_Pointer
+	url = https://github.com/madiv9820/Copy_List_with_Random_Pointer.git
