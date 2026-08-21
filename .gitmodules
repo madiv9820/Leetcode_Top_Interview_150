@@ -172,3 +172,6 @@
 [submodule "Linked_List/Copy_List_with_Random_Pointer"]
 	path = Linked_List/Copy_List_with_Random_Pointer
 	url = https://github.com/madiv9820/Copy_List_with_Random_Pointer.git
+[submodule "Linked_List/Reverse_Linked_List_II"]
+	path = Linked_List/Reverse_Linked_List_II
+	url = https://github.com/madiv9820/Reverse_Linked_List_II.git
