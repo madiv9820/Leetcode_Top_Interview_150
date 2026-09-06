@@ -178,3 +178,6 @@
 [submodule "Linked_List/Reverse_Nodes_in_k_Group"]
 	path = Linked_List/Reverse_Nodes_in_k_Group
 	url = https://github.com/madiv9820/Reverse_Nodes_in_k_Group.git
+[submodule "Linked_List/Remove_Nth_Node_From_End_of_List"]
+	path = Linked_List/Remove_Nth_Node_From_End_of_List
+	url = https://github.com/madiv9820/Remove_Nth_Node_From_End_of_List.git
