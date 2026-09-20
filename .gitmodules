@@ -181,3 +181,6 @@
 [submodule "Linked_List/Remove_Nth_Node_From_End_of_List"]
 	path = Linked_List/Remove_Nth_Node_From_End_of_List
 	url = https://github.com/madiv9820/Remove_Nth_Node_From_End_of_List.git
+[submodule "Linked_List/Remove_Duplicates_from_Sorted_List_II"]
+	path = Linked_List/Remove_Duplicates_from_Sorted_List_II
+	url = https://github.com/madiv9820/Remove_Duplicates_from_Sorted_List_II.git
