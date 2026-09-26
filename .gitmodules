@@ -190,3 +190,6 @@
 [submodule "Linked_List/Partition_List"]
 	path = Linked_List/Partition_List
 	url = https://github.com/madiv9820/Partition_List.git
+[submodule "Linked_List/LRU_Cache"]
+	path = Linked_List/LRU_Cache
+	url = https://github.com/madiv9820/LRU_Cache.git
