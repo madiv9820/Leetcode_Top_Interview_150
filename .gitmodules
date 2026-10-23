@@ -202,3 +202,6 @@
 [submodule "Binary_Tree_General/Invert_Binary_Tree"]
 	path = Binary_Tree_General/Invert_Binary_Tree
 	url = https://github.com/madiv9820/Invert_Binary_Tree.git
+[submodule "Binary_Tree_General/Symmetric_Tree"]
+	path = Binary_Tree_General/Symmetric_Tree
+	url = https://github.com/madiv9820/Symmetric_Tree.git
